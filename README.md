@@ -1,15 +1,17 @@
-#Streamlit Uber Pickups NYC
+# Streamlit Uber Pickups NYC
 This repository contains an interactive web application developed with Streamlit, showcasing data on Uber pickups in New York City. The application allows users to explore pickups based on date and view the number of pickups per hour and their geographical distribution on a map.
 
-#Key Features:
+# Key Features:
 Data Visualization: Displays raw data, including details on Uber pickups in New York.
 Bar Chart: Visualizes the number of pickups per selected hour.
 Interactive Map: Shows the geographical distribution of pickups on the map, allowing users to explore pickups based on the selected date.
-#How to Use:
+
+# How to Use:
 Select the desired date through the dropdown menu.
 Explore the bar chart to see the number of pickups per hour.
 Use the interactive map to view the geographical distribution of pickups.
-#Technologies Used:
+
+# Technologies Used:
 Streamlit: Open-source framework for building data web applications in Python.
 Pandas: Library for data manipulation and analysis.
 GitHub: Code hosting and version control platform.
